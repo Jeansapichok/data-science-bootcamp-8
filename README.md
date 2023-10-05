@@ -13,4 +13,5 @@ I learn a lot of stuff related to data science skills. This bootcamp
 - Data visualization
 - Essential Statistics for Data Analyst
 - Essential Machine Learning for Data Analyst
-- 
+
+you can find me on LinkedIn https://www.linkedin.com/in/apichoke-boutcomekong-68037b21b/  
